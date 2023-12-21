@@ -1,9 +1,9 @@
-<h1 align="center">Template de artigo em LaTex</h1>
-<p>Isse é apenas um modelo para fins de aprendizado. 
+<h1 align="center">LaTeX Article Template</h1>
+<p>This is just a model for learning purposes.
    <br>
-Ele está de acordo com quase todas as normas da Associação Brasileira de Normas Técnicas - ABNT, pois é um trabalho um tanto complicado deixar ele nos conformes.</p>
+   It complies with almost all the standards of the Brazilian Association of Technical Standards - ABNT, as it is a somewhat complicated task to get it in compliance.</p>
 <p>
-   Existem modelos prontos que seguem as normas ABNT e você pode encontra-los na plataforma <a href="https://pt.overleaf.com/">Overleaf.</a>
-      <br>
-   <a href="https://www.overleaf.com/9136931482xkbznqqqfwzy#b19224">Editar esse modelo no Overleaf.</a>
+   There are ready-made templates that follow ABNT standards, and you can find them on the <a href="https://pt.overleaf.com/">Overleaf</a> platform.
+   <br>
+   <a href="https://www.overleaf.com/9136931482xkbznqqqfwzy#b19224">Edit this template on Overleaf.</a>
 </p>
